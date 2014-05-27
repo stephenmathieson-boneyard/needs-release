@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ npm install stephenmathieson/needs-release
+    $ npm install -g needs-release
 
 ## Usage
 
