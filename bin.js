@@ -47,7 +47,7 @@ function next(index) {
 
     console.log();
     console.log('  %s has %d unreleased commits.', slug, n);
-    if (max < unreleased.length) {
+    if (max <= unreleased.length) {
       console.log('  → A release should be published soon!');
     }
 
